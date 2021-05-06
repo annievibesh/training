@@ -1,4 +1,5 @@
 a = 2
 b = 4
-c = a+b
-print(c)
+c = 6
+d = a+b+c
+print(d)
